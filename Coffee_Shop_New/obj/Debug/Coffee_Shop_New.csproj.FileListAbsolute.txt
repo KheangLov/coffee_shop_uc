@@ -1,0 +1,10 @@
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\bin\Debug\Coffee_Shop_New.exe.config
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\bin\Debug\Coffee_Shop_New.exe
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\bin\Debug\Coffee_Shop_New.pdb
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\obj\Debug\Coffee_Shop_New.csprojResolveAssemblyReference.cache
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\obj\Debug\Coffee_Shop_New.Form1.resources
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\obj\Debug\Coffee_Shop_New.Properties.Resources.resources
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\obj\Debug\Coffee_Shop_New.csproj.GenerateResource.cache
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\obj\Debug\Coffee_Shop_New.csproj.CoreCompileInputs.cache
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\obj\Debug\Coffee_Shop_New.exe
+D:\csharp\Coffee_Shop_New\Coffee_Shop_New\obj\Debug\Coffee_Shop_New.pdb
